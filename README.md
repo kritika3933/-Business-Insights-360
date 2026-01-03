@@ -56,6 +56,8 @@
 🗂️ 𝐃𝐚𝐭𝐚 𝐌𝐨𝐝𝐞𝐥
 The dashboard is powered by a well-structured Snowflake schema for efficient querying and optimized performance.
 
+<img width="1115" height="741" alt="Image" src="https://github.com/user-attachments/assets/1089c8a3-9a39-4071-a49d-9a7615ee3319" />
+
 
 
 
