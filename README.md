@@ -69,9 +69,12 @@ Analyze Profit & Loss statements, Net Sales trends, and top/bottom customers & p
 
 <img width="1266" height="703" alt="Image" src="https://github.com/user-attachments/assets/43ca4413-87bc-42ff-8b9f-f5f4a2596d60" />
 
+
 📈 Sales View
 Customer and product performance with insights into Net Sales, Gross Margin %, and unit economics.
 
+
+<img width="1318" height="744" alt="Image" src="https://github.com/user-attachments/assets/b60c8b33-b07a-45b2-b168-8cc49db69cbe" />
 
 
  Marketing View
