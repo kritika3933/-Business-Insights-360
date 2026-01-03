@@ -3,41 +3,37 @@
 𝐏𝐫𝐨𝐛𝐥𝐞𝐦 𝐒𝐭𝐚𝐭𝐞𝐦𝐞𝐧𝐭: AtliqQ Hardware, like many other businesses recently, the company faced losses from a poorly planned store expansion in the USA, which was based only on surveys and Excel analysis. This highlighted the urgent need for a dedicated analytics system to reduce guesswork and improve business decisions
 
 💻 Tech Stack
-SQL
+• SQL
 
-Power BI Desktop
+• Power BI Desktop
 
-Excel
+• Microsoft Excel
 
-DAX
+• DAX
 
-DAX Studio
-
-
+• DAX Studio
 
 🛠️ Power BI Features
 
-Data cleaning and transformations with Power Query
+• Data cleaning and transformations using Power Query
 
-Snowflake data modeling for efficient relationships
+• Snowflake data modeling for efficient relationships
 
-Creating measures and KPIs using DAX
+• Creation of measures and KPIs using DAX
 
-Dynamic titles that respond to applied filters
+• Dynamic titles that respond to applied filters
 
-Conditional formatting with icons and colors
+• Conditional formatting with icons and colors
 
-Bookmarks & navigation buttons for smooth report flow
+• Bookmarks and navigation buttons for smooth report flow
 
-Drill-through and tooltips for detailed insights
+• Drill-through and tooltips for detailed insights
 
-Date table creation using M language
+• Date table creation using M language
 
-KPI indicators for quick performance checks
+• KPI indicators for quick performance checks
 
-Data validation techniques to ensure accuracy
-
-
+• Data validation techniques to ensure accuracy
 
 🌟𝐏𝐫𝐨𝐣𝐞𝐜𝐭 𝐇𝐢𝐠𝐡𝐥𝐢𝐠𝐡𝐭𝐬🌟
 
@@ -66,6 +62,3 @@ The dashboard is powered by a well-structured Snowflake schema for efficient que
 
 
 
-🚚𝐒𝐮𝐩𝐩𝐥𝐲 𝐂𝐡𝐚𝐢𝐧 𝐕𝐢𝐞𝐰: Streamline the supply chain by utilizing key metrics, trend charts, and detailed breakdowns.
-
-👨🏻‍💼𝐄𝐱𝐞𝐜𝐮𝐭𝐢𝐯𝐞 𝐕𝐢𝐞𝐰: An essential section tailored for executives, delivering crucial metrics, revenue contributions, trend charts, and detailed tables.
