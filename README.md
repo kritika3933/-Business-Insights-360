@@ -77,10 +77,20 @@ Customer and product performance with insights into Net Sales, Gross Margin %, a
 <img width="1318" height="744" alt="Image" src="https://github.com/user-attachments/assets/b60c8b33-b07a-45b2-b168-8cc49db69cbe" />
 
 
+
  Marketing View
-Market, region, product, and customer insights while tracking GM% and NP% across segments.
+ Market, region, product, and customer insights while tracking GM% and NP% across segments.
+
+
+<img width="1325" height="743" alt="Image" src="https://github.com/user-attachments/assets/c0ecb182-e846-455c-b061-36cd25711459" />
+
+
+🚚 Supply Chain View
+Track Forecast Accuracy, Net Error, and Absolute Error with trend analysis for supply chain optimization.
 
 
 
 
 
+👔 Executive View
+High-level performance overview including revenue by division, customers, products, and channels.
