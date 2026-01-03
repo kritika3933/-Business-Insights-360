@@ -58,7 +58,24 @@ The dashboard is powered by a well-structured Snowflake schema for efficient que
 
 <img width="1115" height="741" alt="Image" src="https://github.com/user-attachments/assets/1089c8a3-9a39-4071-a49d-9a7615ee3319" />
 
+🏠 Home Page
+Central navigation hub with buttons to access each domain view.
 
+
+
+
+💵 Finance View
+Analyze Profit & Loss statements, Net Sales trends, and top/bottom customers & products.
+
+
+
+📈 Sales View
+Customer and product performance with insights into Net Sales, Gross Margin %, and unit economics.
+
+
+
+ Marketing View
+Market, region, product, and customer insights while tracking GM% and NP% across segments.
 
 
 
