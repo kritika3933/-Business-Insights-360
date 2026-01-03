@@ -61,7 +61,7 @@ The dashboard is powered by a well-structured Snowflake schema for efficient que
 🏠 Home Page
 Central navigation hub with buttons to access each domain view.
 
-
+<img width="1325" height="741" alt="Image" src="https://github.com/user-attachments/assets/823c6644-09fe-4743-8c89-ffa734ea40c1" />
 
 
 💵 Finance View
