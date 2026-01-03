@@ -89,7 +89,7 @@ Customer and product performance with insights into Net Sales, Gross Margin %, a
 Track Forecast Accuracy, Net Error, and Absolute Error with trend analysis for supply chain optimization.
 
 
-
+<img width="1320" height="739" alt="Image" src="https://github.com/user-attachments/assets/3c1227c9-b50e-4e2b-ae78-aca8a2e58e3a" />
 
 
 👔 Executive View
