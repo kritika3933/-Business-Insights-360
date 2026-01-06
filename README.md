@@ -1,4 +1,4 @@
-📊 Business Insights 360 – Power BI Project
+📊 ## Business Insights 360 – Power BI Project
 
 𝐏𝐫𝐨𝐛𝐥𝐞𝐦 𝐒𝐭𝐚𝐭𝐞𝐦𝐞𝐧𝐭: AtliqQ Hardware, like many other businesses recently, the company faced losses from a poorly planned store expansion in the USA, which was based only on surveys and Excel analysis. This highlighted the urgent need for a dedicated analytics system to reduce guesswork and improve business decisions
 
@@ -13,7 +13,7 @@
 
 • DAX Studio
 
-🛠️ Power BI Features
+🛠️ ## Power BI Features
 
 • Data cleaning and transformations using Power Query
 
@@ -35,7 +35,7 @@
 
 • Data validation techniques to ensure accuracy
 
-🌟𝐏𝐫𝐨𝐣𝐞𝐜𝐭 𝐇𝐢𝐠𝐡𝐥𝐢𝐠𝐡𝐭𝐬🌟
+🌟 ## 𝐏𝐫𝐨𝐣𝐞𝐜𝐭 𝐇𝐢𝐠𝐡𝐥𝐢𝐠𝐡𝐭𝐬🌟
 
 🏠𝐇𝐨𝐦𝐞 𝐏𝐚𝐠𝐞: The central hub is designed for effortless navigation, offering swift entry to crucial information.
 
@@ -53,24 +53,35 @@
 
 👨🏻‍💼𝐄𝐱𝐞𝐜𝐮𝐭𝐢𝐯𝐞 𝐕𝐢𝐞𝐰: An essential section tailored for executives, delivering crucial metrics, revenue contributions, trend charts, and detailed tables.
 
+
+## 🔗 Dashboard Link
+👉 🔗 [View Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMmFiMmZkMWYtMjg0NS00YmEyLTkxNTQtOGYwYWZlMmZiMWYyIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+
+
+
+
+
 🗂️ 𝐃𝐚𝐭𝐚 𝐌𝐨𝐝𝐞𝐥
 The dashboard is powered by a well-structured Snowflake schema for efficient querying and optimized performance.
 
 <img width="1115" height="741" alt="Image" src="https://github.com/user-attachments/assets/1089c8a3-9a39-4071-a49d-9a7615ee3319" />
 
 🏠 Home Page
+
 Central navigation hub with buttons to access each domain view.
 
 <img width="1325" height="741" alt="Image" src="https://github.com/user-attachments/assets/823c6644-09fe-4743-8c89-ffa734ea40c1" />
 
 
 💵 Finance View
+
 Analyze Profit & Loss statements, Net Sales trends, and top/bottom customers & products.
 
 <img width="1266" height="703" alt="Image" src="https://github.com/user-attachments/assets/43ca4413-87bc-42ff-8b9f-f5f4a2596d60" />
 
 
 📈 Sales View
+
 Customer and product performance with insights into Net Sales, Gross Margin %, and unit economics.
 
 
@@ -79,6 +90,7 @@ Customer and product performance with insights into Net Sales, Gross Margin %, a
 
 
  Marketing View
+ 
  Market, region, product, and customer insights while tracking GM% and NP% across segments.
 
 
@@ -86,6 +98,7 @@ Customer and product performance with insights into Net Sales, Gross Margin %, a
 
 
 🚚 Supply Chain View
+
 Track Forecast Accuracy, Net Error, and Absolute Error with trend analysis for supply chain optimization.
 
 
@@ -93,6 +106,7 @@ Track Forecast Accuracy, Net Error, and Absolute Error with trend analysis for s
 
 
 👔 Executive View
+
 High-level performance overview including revenue by division, customers, products, and channels.
 
 
@@ -114,6 +128,4 @@ Executives → Make smarter and faster decisions with confidence.
 
 
 
-## 🔗 Dashboard Link
-👉 🔗 [View Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMmFiMmZkMWYtMjg0NS00YmEyLTkxNTQtOGYwYWZlMmZiMWYyIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
