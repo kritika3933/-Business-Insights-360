@@ -13,7 +13,7 @@
 
 • DAX Studio
 
-🛠️ ## Power BI Features
+🛠️  Power BI Features
 
 • Data cleaning and transformations using Power Query
 
@@ -35,7 +35,7 @@
 
 • Data validation techniques to ensure accuracy
 
-🌟 ## 𝐏𝐫𝐨𝐣𝐞𝐜𝐭 𝐇𝐢𝐠𝐡𝐥𝐢𝐠𝐡𝐭𝐬🌟
+🌟  𝐏𝐫𝐨𝐣𝐞𝐜𝐭 𝐇𝐢𝐠𝐡𝐥𝐢𝐠𝐡𝐭𝐬🌟
 
 🏠𝐇𝐨𝐦𝐞 𝐏𝐚𝐠𝐞: The central hub is designed for effortless navigation, offering swift entry to crucial information.
 
@@ -55,6 +55,7 @@
 
 
 ## 🔗 Dashboard Link
+
 👉 🔗 [View Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMmFiMmZkMWYtMjg0NS00YmEyLTkxNTQtOGYwYWZlMmZiMWYyIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 
