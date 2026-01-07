@@ -56,9 +56,7 @@
 
 ## 🔗 Dashboard Link
 
-👉 🔗 [View Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMmFiMmZkMWYtMjg0NS00YmEyLTkxNTQtOGYwYWZlMmZiMWYyIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
-
-
+👉 🔗
 
 
 
@@ -86,7 +84,6 @@ Analyze Profit & Loss statements, Net Sales trends, and top/bottom customers & p
 Customer and product performance with insights into Net Sales, Gross Margin %, and unit economics.
 
 
-<img width="1318" height="744" alt="Image" src="https://github.com/user-attachments/assets/b60c8b33-b07a-45b2-b168-8cc49db69cbe" />
 
 
 
@@ -95,7 +92,6 @@ Customer and product performance with insights into Net Sales, Gross Margin %, a
  Market, region, product, and customer insights while tracking GM% and NP% across segments.
 
 
-<img width="1325" height="743" alt="Image" src="https://github.com/user-attachments/assets/c0ecb182-e846-455c-b061-36cd25711459" />
 
 
 🚚 Supply Chain View
