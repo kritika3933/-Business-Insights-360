@@ -91,7 +91,7 @@ Customer and product performance with insights into Net Sales, Gross Margin %, a
  
  Market, region, product, and customer insights while tracking GM% and NP% across segments.
 
-
+<img width="1284" height="715" alt="Image" src="https://github.com/user-attachments/assets/315653f1-b51f-4a68-a112-d08c57c6480b" />
 
 
 🚚 Supply Chain View
