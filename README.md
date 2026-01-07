@@ -56,8 +56,7 @@
 
 ## 🔗 Dashboard Link
 
-👉 🔗
-
+👉🔗 [View Live Dashboard](https://https://app.powerbi.com/view?r=eyJrIjoiYjU5YTFlMWItY2VlYy00OWE5LWJkMWEtZTFmYWU5YmM3MzZjIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 
 🗂️ 𝐃𝐚𝐭𝐚 𝐌𝐨𝐝𝐞𝐥
@@ -84,7 +83,7 @@ Analyze Profit & Loss statements, Net Sales trends, and top/bottom customers & p
 Customer and product performance with insights into Net Sales, Gross Margin %, and unit economics.
 
 
-
+<img width="1287" height="711" alt="Image" src="https://github.com/user-attachments/assets/ed85e6bd-2e09-4e6e-81b7-cb3bc3433af9" />
 
 
  Marketing View
