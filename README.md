@@ -56,7 +56,7 @@
 
 ## 🔗 Dashboard Link
 
-👉🔗🔗 [View Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZDZhNTRmZjktMTE3NS00YmJmLWE3YTMtNTI4MzgyOTk4MWEyIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+👉🔗 [View Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZDZhNTRmZjktMTE3NS00YmJmLWE3YTMtNTI4MzgyOTk4MWEyIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 🗂️ 𝐃𝐚𝐭𝐚 𝐌𝐨𝐝𝐞𝐥
 The dashboard is powered by a well-structured Snowflake schema for efficient querying and optimized performance.
